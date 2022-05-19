@@ -1,10 +1,10 @@
 @font-face {
     font-family: boogy;
-    src: url(/Users/mariaproenca/Documents/Website/BoogyBrutPosterTEST-White.otf);
+    src: url(/Users/mariaproenca/Documents/GitHub/Metagenesis_dcvi/BoogyBrutPosterTEST-White.otf);
 }
 @font-face {
     font-family: neuehaas;
-    src: url(/Users/mariaproenca/Documents/Website/NeueHaasDisplay-Roman.ttf);
+    src: url(/Users/mariaproenca/Documents/GitHub/Metagenesis_dcvi/NeueHaasDisplay-Roman.ttf);
     }
 
 body { 
@@ -35,7 +35,7 @@ body {
    position: relative;
 float: right;
     margin: 15px;
-    width: 25px;
+    width: 20%;
     height: auto;
     border-width: 0 2px 2px 0;
     }

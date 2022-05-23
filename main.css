@@ -1,6 +1,6 @@
 @font-face {
     font-family: boogy;
-    src: url(/Users/mariaproenca/Documents/GitHub/Metagenesis_dcvi/BoogyBrutPosterTEST-White.otf);
+    src: url(BoogyBrutPosterTEST-White.otf) format('otf');
 }
 @font-face {
     font-family: neuehaas;
